@@ -1,0 +1,4 @@
+{
+  "task_class": "ExampleTask",
+  "task_module": "lsst.example"
+}
